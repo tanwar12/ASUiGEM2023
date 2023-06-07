@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<style>
+		table {
+			border-collapse: collapse;
+			background: white;
+			color: black;
+		}
+		
+		th,
+		td {
+			font-weight: bold;
+		}
+	</style>
+</head>
+
+<body>
+	<!-- Here we are using attributes like
+		cellspacing and cellpadding -->
+
+	<!-- The purpose of the cellpadding is
+		the space that a user want between
+		the border of cell and its contents-->
+
+	<!-- cellspacing is used to specify the
+		space between the cell and its contents -->
+	<h2 align="center" style="color: orange;">
+		January 2021
+	</h2>
+	<br />
+
+	<table bgcolor="lightgrey" align="center"
+		cellspacing="21" cellpadding="21">
+
+		<!-- The tr tag is used to enter
+			rows in the table -->
+
+		<!-- It is used to give the heading to the
+			table. We can give the heading to the
+			top and bottom of the table -->
+
+		<caption align="top">
+			<!-- Here we have used the attribute
+				that is style and we have colored
+				the sentence to make it better
+				depending on the web page-->
+		</caption>
+
+		<!-- Here th stands for the heading of the
+			table that comes in the first row-->
+
+		<!-- The text in this table header tag will
+			appear as bold and is center aligned-->
+
+		<thead>
+			<tr>
+				<!-- Here we have applied inline style
+					to make it more attractive-->
+				<th style="color: white; background: purple;">
+					Sun</th>
+				<th style="color: white; background: purple;">
+					Mon</th>
+				<th style="color: white; background: purple;">
+					Tue</th>
+				<th style="color: white; background: purple;">
+					Wed</th>
+				<th style="color: white; background: purple;">
+					Thu</th>
+				<th style="color: white; background: purple;">
+					Fri</th>
+				<th style="color: white; background: purple;">
+					Sat</th>
+			</tr>
+		</thead>
+
+		<tbody>
+			<tr>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td><div title="This is a mouseover text!">1</div></td>
+				<td><div title="This is a mouseover text!">2</div></td>
+			</tr>
+			<tr></tr>
+			<tr>
+				<td><div title="This is a mouseover text!">3</div></td>
+				<td><div title="This is a mouseover text!">4</div></td>
+				<td><div title="This is a mouseover text!">5</div></td>
+				<td><div title="This is a mouseover text!">6</div></td>
+				<td><div title="This is a mouseover text!">7</div></td>
+				<td><div title="This is a mouseover text!">8</div></td>
+				<td><div title="This is a mouseover text!">9</div></td>
+			</tr>
+			<tr>
+				<td><div title="This is a mouseover text!">10</div></td>
+				<td><div title="This is a mouseover text!">11</div></td>
+				<td><div title="This is a mouseover text!">12</div></td>
+				<td><div title="This is a mouseover text!">13</div></td>
+				<td><div title="This is a mouseover text!">14</div></td>
+				<td><div title="This is a mouseover text!">15</div></td>
+				<td><div title="This is a mouseover text!">16</div></td>
+			</tr>
+			<tr>
+				<td><div title="This is a mouseover text!">17</div></td>
+				<td><div title="This is a mouseover text!">18</div></td>
+				<td><div title="This is a mouseover text!">19</div></td>
+				<td><div title="This is a mouseover text!">20</div></td>
+				<td><div title="This is a mouseover text!">21</div></td>
+				<td><div title="This is a mouseover text!">22</div></td>
+				<td><div title="This is a mouseover text!">23</div></td>
+			</tr>
+			<tr>
+				<td><div title="This is a mouseover text!">24</div></td>
+				<td><div title="This is a mouseover text!">25</div></td>
+				<td><div title="This is a mouseover text!">26</div></td>
+				<td><div title="This is a mouseover text!">27</div></td>
+				<td><div title="This is a mouseover text!">28</div></td>
+				<td><div title="This is a mouseover text!">29</div></td>
+				<td><div title="This is a mouseover text!">30</div></td>
+			</tr>
+			<tr>
+				<td><div title="This is a mouseover text!">31</div></td>
+			</tr>
+		</tbody>
+	</table>
+</body>
+
+</html>
