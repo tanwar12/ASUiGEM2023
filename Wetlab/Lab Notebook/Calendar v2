@@ -1,1 +1,132 @@
+<!DOCTYPE html>
+<html>
 
+<head>
+	<style>
+		table {
+			border-collapse: collapse;
+			background: white;
+			color: black;
+		}
+		
+		th,
+		td {
+			font-weight: bold;
+		}
+	</style>
+</head>
+
+<body>
+	<!-- Here we are using attributes like
+		cellspacing and cellpadding -->
+
+	<!-- The purpose of the cellpadding is
+		the space that a user want between
+		the border of cell and its contents-->
+
+	<!-- cellspacing is used to specify the
+		space between the cell and its contents -->
+	<h2 align="center" style="color: orange;">
+		January 2021
+	</h2>
+	<br />
+
+	<table bgcolor="lightgrey" align="center"
+		cellspacing="21" cellpadding="21">
+
+		<!-- The tr tag is used to enter
+			rows in the table -->
+
+		<!-- It is used to give the heading to the
+			table. We can give the heading to the
+			top and bottom of the table -->
+
+		<caption align="top">
+			<!-- Here we have used the attribute
+				that is style and we have colored
+				the sentence to make it better
+				depending on the web page-->
+		</caption>
+
+		<!-- Here th stands for the heading of the
+			table that comes in the first row-->
+
+		<!-- The text in this table header tag will
+			appear as bold and is center aligned-->
+
+		<thead>
+			<tr>
+				<!-- Here we have applied inline style
+					to make it more attractive-->
+				<th style="color: white; background: purple;">
+					Sun</th>
+				<th style="color: white; background: purple;">
+					Mon</th>
+				<th style="color: white; background: purple;">
+					Tue</th>
+				<th style="color: white; background: purple;">
+					Wed</th>
+				<th style="color: white; background: purple;">
+					Thu</th>
+				<th style="color: white; background: purple;">
+					Fri</th>
+				<th style="color: white; background: purple;">
+					Sat</th>
+			</tr>
+		</thead>
+
+		<tbody>
+			<tr>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td><div title="This is a mouseover text!"><a href="https://www.w3schools.com/" target="_blank">1</a></div></td>
+				<td><div title="This is a mouseover text!"><a href="https://www.w3schools.com/" target="_blank">2</a></div></td>
+			</tr>
+			<tr></tr>
+			<tr>
+				<td><div title="This is a mouseover text!"><a href="https://www.w3schools.com/" target="_blank">3</a></div></td>
+				<td><div title="This is a mouseover text!"><a href="https://www.w3schools.com/" target="_blank">4</a></div></td>
+				<td><div title="This is a mouseover text!"><a href="https://www.w3schools.com/" target="_blank">5</a></div></td>
+				<td><div title="This is a mouseover text!"><a href="https://www.w3schools.com/" target="_blank">6</a></div></td>
+				<td><div title="This is a mouseover text!"><a href="https://www.w3schools.com/" target="_blank">7</a></div></td>
+				<td><div title="This is a mouseover text!"><a href="https://www.w3schools.com/" target="_blank">8</a></div></td>
+				<td><div title="This is a mouseover text!"><a href="https://www.w3schools.com/" target="_blank">9</a></div></td>
+			</tr>
+			<tr>
+				<td><div title="This is a mouseover text!"><a href="https://www.w3schools.com/" target="_blank">10</a></div></td>
+				<td><div title="This is a mouseover text!"><a href="https://www.w3schools.com/" target="_blank">11</a></div></td>
+				<td><div title="This is a mouseover text!"><a href="https://www.w3schools.com/" target="_blank">12</a></div></td>
+				<td><div title="This is a mouseover text!"><a href="https://www.w3schools.com/" target="_blank">13</a></div></td>
+				<td><div title="This is a mouseover text!"><a href="https://www.w3schools.com/" target="_blank">14</a></div></td>
+				<td><div title="This is a mouseover text!"><a href="https://www.w3schools.com/" target="_blank">15</a></div></td>
+				<td><div title="This is a mouseover text!"><a href="https://www.w3schools.com/" target="_blank">16</a></div></td>
+			</tr>
+			<tr>
+				<td><div title="This is a mouseover text!"><a href="https://www.w3schools.com/" target="_blank">17</a></div></td>
+				<td><div title="This is a mouseover text!"><a href="https://www.w3schools.com/" target="_blank">18</a></div></td>
+				<td><div title="This is a mouseover text!"><a href="https://www.w3schools.com/" target="_blank">19</a></div></td>
+				<td><div title="This is a mouseover text!"><a href="https://www.w3schools.com/" target="_blank">20</a></div></td>
+				<td><div title="This is a mouseover text!"><a href="https://www.w3schools.com/" target="_blank">21</a></div></td>
+				<td><div title="This is a mouseover text!"><a href="https://www.w3schools.com/" target="_blank">22</a></div></td>
+				<td><div title="This is a mouseover text!"><a href="https://www.w3schools.com/" target="_blank">23</a></div></td>
+			</tr>
+			<tr>
+				<td><div title="This is a mouseover text!"><a href="https://www.w3schools.com/" target="_blank">24</a></div></td>
+				<td><div title="This is a mouseover text!"><a href="https://www.w3schools.com/" target="_blank">25</a></div></td>
+				<td><div title="This is a mouseover text!"><a href="https://www.w3schools.com/" target="_blank">26</a></div></td>
+				<td><div title="This is a mouseover text!"><a href="https://www.w3schools.com/" target="_blank">27</a></div></td>
+				<td><div title="This is a mouseover text!"><a href="https://www.w3schools.com/" target="_blank">28</a></div></td>
+				<td><div title="This is a mouseover text!"><a href="https://www.w3schools.com/" target="_blank">29</a></div></td>
+				<td><div title="This is a mouseover text!"><a href="https://www.w3schools.com/" target="_blank">30</a></div></td>
+			</tr>
+			<tr>
+				<td><div title="This is a mouseover text!"><a href="https://www.w3schools.com/" target="_blank">31</a></div></td>
+			</tr>
+		</tbody>
+	</table>
+</body>
+
+</html>
