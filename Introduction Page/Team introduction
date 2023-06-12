@@ -19,15 +19,23 @@ img {
   padding-left: 20px;
 }
 </style>
- <body>
+  <body>
     <div class="container">
       <div class="image">
-        <img src="https://i.pinimg.com/564x/59/32/29/593229739184504afd9507cc42a9cb86.jpg%22%3E
-     </div>
+        <img src="https://i.pinimg.com/564x/59/32/29/593229739184504afd9507cc42a9cb86.jpg%22%3E">
+      </div>
       <div class="text">
         <p>Rori Hoover is a Biomedical Engineering major and a member of the wetlab team. Outside of the lab she likes crochet and pottery.</p>
+    </div>
+    </div>
+    <div class = "container">
+      <div class = "image">
+        <img src = "Niam LeStourgeon Placeholder.jpg" alt = "Niam LeStourgeon Picture">
       </div>
+      <div class = "text">
+        <p>Niam LeStourgeon is a Biomedical Engineering major. During his free time he enjoys playing volleyball and reading.</p>
       </div>
-     </body>
-    </html>
-      
+    </div>
+  </body>
+</html>
+
