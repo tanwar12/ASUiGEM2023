@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-
   <style>
   .container {
   background-color: #Ded1dd;
@@ -8,26 +7,29 @@
   align-items: center;
   justify-content: center
 }
-
 img {
   max-width: 100%;
   max-height:100%;
 }
-
 .text {
   font-size: 20px;
   padding-left: 20px;
 }
 </style>
+padding-left: 20px;
+}
+</style>
   <body>
     <div class="container">
       <div class="image">
-        <img src="https://i.pinimg.com/564x/59/32/29/593229739184504afd9507cc42a9cb86.jpg%22%3E">
+        <img src="https://i.pinimg.com/564x/59/32/29/593229739184504afd9507cc42a9cb86.jpg%22%3E" alt = "Rori Hoover Picture">
       </div>
       <div class="text">
         <p>Rori Hoover is a Biomedical Engineering major and a member of the wetlab team. Outside of the lab she likes crochet and pottery.</p>
     </div>
     </div>
+    <br>
+    <br>
     <div class = "container">
       <div class = "image">
         <img src = "Niam LeStourgeon Placeholder.jpg" alt = "Niam LeStourgeon Picture">
@@ -38,4 +40,3 @@ img {
     </div>
   </body>
 </html>
-
