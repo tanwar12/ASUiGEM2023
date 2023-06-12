@@ -33,6 +33,16 @@ padding-left: 20px;
     </div>
     <br>
     <br>
+    <div class="container">
+      <div class="image">
+        <img src="https://i.pinimg.com/564x/59/32/29/593229739184504afd9507cc42a9cb86.jpg%22%3E
+     </div>
+      <div class="text">
+        <p>Patrick Jiang is a Computer Science major and a member of the wetlab team. Outside of the lab he likes touching grass.</p>
+      </div>
+      </div>
+    <br>
+    <br>
     <div class = "container">
       <div class = "image">
         <img src = "Niam LeStourgeon Placeholder.jpg" alt = "Niam LeStourgeon Picture">
@@ -40,27 +50,6 @@ padding-left: 20px;
       <div class = "text">
         <p>Niam LeStourgeon is a Biomedical Engineering major. During his free time he enjoys playing volleyball and reading.</p>
       </div>
-    </div>
-    <br>
-    <br>
-    <div class="container">
-      <div class="image">
-        <img src="https://i.pinimg.com/564x/59/32/29/593229739184504afd9507cc42a9cb86.jpg%22%3E
-     </div>
-      <div class="text">
-        <p>Patrick Jiang is a Computer Science major and a member of the wetlab team. Outside of the lab he likes touching grass.</p>
-      </div>
-      </div>
-     </body>
-     <br>
-     <br>
-    <div class="container">
-      <div class="image">
-        <img src="https://i.pinimg.com/564x/59/32/29/593229739184504afd9507cc42a9cb86.jpg%22%3E
-     </div>
-      <div class="text">
-        <p>Patrick Jiang is a Computer Science major and a member of the wetlab team. Outside of the lab he likes touching grass.</p>
-      </div>
-      </div>
+    </div>    
      </body>
     </html>
