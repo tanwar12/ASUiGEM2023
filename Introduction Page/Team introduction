@@ -18,7 +18,22 @@ img {
   font-size: 20px;
   padding-left: 20px;
 }
+.something {
+background-image:url(https://placekitten.com/g/200/300);
+height: 300px;
+background-attachment: scroll;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
 </style>
+
+<div class="something"></div>
+
+<center>
+<h1>Meet the team</h1>
+</center>
+
   <body>
     <div class="container">
       <div class="image">
