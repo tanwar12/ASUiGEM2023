@@ -19,13 +19,10 @@ img {
   padding-left: 20px;
 }
 </style>
-padding-left: 20px;
-}
-</style>
   <body>
     <div class="container">
       <div class="image">
-        <img src="https://i.pinimg.com/564x/59/32/29/593229739184504afd9507cc42a9cb86.jpg%22%3E" alt = "Rori Hoover Picture">
+        <img src=http://placekitten.com/g/100/100 alt = "Rori Hoover Picture">
       </div>
       <div class="text">
         <p>Rori Hoover is a Biomedical Engineering major and a member of the wetlab team. Outside of the lab she likes crochet and pottery.</p>
@@ -35,7 +32,7 @@ padding-left: 20px;
     <br>
     <div class="container">
       <div class="image">
-        <img src="https://i.pinimg.com/564x/59/32/29/593229739184504afd9507cc42a9cb86.jpg%22%3E" alt = "Patrick Jiang Picture">
+        <img src= "http://placekitten.com/g/100/100" alt = "Patrick Jiang Picture">
      </div>
       <div class="text">
         <p>Patrick Jiang is a Computer Science major and a member of the wetlab team. Outside of the lab he likes touching grass.</p>
@@ -45,11 +42,11 @@ padding-left: 20px;
     <br>
     <div class = "container">
       <div class = "image">
-        <img src = "Niam LeStourgeon Placeholder.jpg" alt = "Niam LeStourgeon Picture">
+        <img src = "http://placekitten.com/g/100/100" alt = "Niam LeStourgeon Picture">
       </div>
       <div class = "text">
         <p>Niam LeStourgeon is a Biomedical Engineering major. During his free time he enjoys playing volleyball and reading.</p>
       </div>
     </div>    
      </body>
-    </html>
+ </html>
