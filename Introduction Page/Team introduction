@@ -62,6 +62,26 @@ background-size: cover;
       <div class="text">
         <p>Pranav Bhavaraju is a sophomore in chemical engineering. He likes collecting rocks and minerals.</p>
     <br>
+    <div class="container">
+      <div class="image">
+        <img src=http://placekitten.com/g/100/100 alt = "Isabella Lirtzman Picture">
+      </div>
+      <div class="text">
+        <p>Isabella Lirtzman is a member of the Chemistry team. Outside of the lab, she likes riding horses and watching movies.</p>
+    </div>
+    </div>
+    <br>
+    <br>
+    <div class="container">
+      <div class="image">
+        <img src=https://static.wikia.nocookie.net/universalstudios/images/3/34/Insectosaurus.jpg/revision/latest?cb=20210201014835= "Evie Nguyen's Picture">
+      </div>
+      <div class="text">
+        <p>Evie Nguyen is a senior majoring in Biochemistry. On her free time she likes to watch movies, read, and sew.</p>
+    </div>
+    </div>
+    <br>
+    <br>
     <div class = "container">
       <div class = "image">
         <img src = "http://placekitten.com/g/100/100" alt = "Niam LeStourgeon Picture">
