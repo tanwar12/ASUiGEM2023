@@ -55,6 +55,13 @@ background-size: cover;
       </div>
     <br>
     <br>
+    <div class="container">
+      <div class="image">
+        <img src= "http://placekitten.com/g/100/100" alt = "Pranav Bhavaraju Picture">
+     </div>
+      <div class="text">
+        <p>Pranav Bhavaraju is a sophomore in chemical engineering. He likes collecting rocks and minerals.</p>
+    <br>
     <div class = "container">
       <div class = "image">
         <img src = "http://placekitten.com/g/100/100" alt = "Niam LeStourgeon Picture">
