@@ -74,6 +74,16 @@ background-size: cover;
     <br>
     <div class="container">
       <div class="image">
+        <img src=http://placekitten.com/g/100/100 alt = "Tahmid Anwar Picture">
+      </div>
+      <div class="text">
+        <p>Tahmid Anwar is a junior in Biomedical Engineering and a member of the chemistry team. Outside of the lab he likes to play soccer and watch movies.</p>
+    </div>
+    </div>
+    <br>
+    <br>
+    <div class="container">
+      <div class="image">
         <img src=https://static.wikia.nocookie.net/universalstudios/images/3/34/Insectosaurus.jpg/revision/latest?cb=20210201014835= "Evie Nguyen's Picture">
       </div>
       <div class="text">
